@@ -1,6 +1,6 @@
 # The Bakers Web Application
 
-The Bakers is an innovative online marketplace designed to connect passionate bakers with dessert enthusiasts worldwide. Launched on May 1st, 2024, it offers a platform where customers can discover a wide range of bakery products, place orders, and leave reviews, all while providing bakers a place to manage their businesses and connect with customers. The Bakers platform is designed to make the baking world more accessible, with a focus on creativity, community, and flavor.
+The Bakers is an innovative online marketplace designed to connect passionate bakers with dessert enthusiasts worldwide. It offers a platform where customers can discover a wide range of bakery products, place orders, and leave reviews, all while providing bakers a place to manage their businesses and connect with customers. The Bakers platform is designed to make the baking world more accessible, with a focus on creativity, community, and flavor.
 
 ## Project Overview
 
